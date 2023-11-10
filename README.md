@@ -8,10 +8,10 @@
 </div>
 
 </div>
-     <a href="https://github.com/priPrazeresss/github-readme-stats">
-     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=priprazeresss&show_icons=true&theme=synthwave" />
-     <a href="https://github.com/priPrazeress/convoychat">
-     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priprazeresss&layout=compact&langs_count=8&theme=synthwave" />
+     <a href="https://github.com/priprazeresss/github-readme-stats">
+     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=priprazeress&show_icons=true&theme=synthwave" />
+     <a href="https://github.com/priprazeress/convoychat">
+     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priprazeress&layout=compact&langs_count=8&theme=synthwave" />
   </div>
   <div style="display: inline_block"><br>
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
