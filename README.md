@@ -3,8 +3,7 @@
 
 </div>
 <div align="center">
-<img align="left" alt="PRi-pic" height="400" width="400" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4"/>
-<img align="left" alt="PRi-pic" height="400" width="400" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/e5fb1fe1-9452-4fb8-9138-9b79e075c530"/>
+<img align="left" alt="PRi-pic" height="400" width="900" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/e5fb1fe1-9452-4fb8-9138-9b79e075c530"/>
 </div>
 
 </div>
@@ -17,7 +16,8 @@
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
      <img align="center" alt="PriPrazeress-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-     <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /
+     <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+       <img align="right" alt="PRi-pic" height="100" width="100" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4"/>
   </div>
 
   ##
