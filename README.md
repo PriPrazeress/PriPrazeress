@@ -6,6 +6,26 @@
 <img align="left" alt="PRi-pic" height="400" width="900" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/e5fb1fe1-9452-4fb8-9138-9b79e075c530"/>
 </div>
 
+
+
+
+</p>
+  
+<p align="center">
+  <b>👩‍💻 SOBRE</b>
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ANALISTA%20DE%20DADOS%20;CIENTISTA%20DE%20DADOS%20;BUSINESS%20INTELLIGENCE;MACHINE%20LEARNING;PYTHON%20;EXCEL%20;SQL%20;NOSQL;SEMPRE%20APRENDENDO%20COISAS%20LINGUAGENS&font=Fira%20Code&center=true&width=440&height=45&color=#8B008B=true&pause=1000&size=22" /></a>
+
+</p>
+       
+      
+
+
+
+
+
+
+
 </div>
      <a href="https://github.com/priprazeresss/github-readme-stats">
      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=priprazeress&show_icons=true&theme=synthwave" />
