@@ -14,7 +14,7 @@
 <p align="center">
   <b>👩‍💻 SOBRE</b>
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ANALISTA%20DE%20DADOS%20;CIENTISTA%20DE%20DADOS%20;BUSINESS%20INTELLIGENCE;MACHINE%20LEARNING;PYTHON%20;EXCEL%20;SQL%20;NOSQL;SEMPRE%20APRENDENDO%20COISAS%20LINGUAGENS&font=Fira%20Code&center=true&width=440&height=45&color=#8B008B=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=ANALISTA%20DE%20DADOS%20;CIENTISTA%20DE%20DADOS%20;BUSINESS%20INTELLIGENCE;MACHINE%20LEARNING;PYTHON%20;EXCEL%20;SQL%20;NOSQL;SEMPRE%20APRENDENDO%20COISAS%20NOVAS&font=Fira%20Code&center=true&width=440&height=45&color=#8B008B=true&pause=1000&size=22" /></a>
 
 </p>
        
