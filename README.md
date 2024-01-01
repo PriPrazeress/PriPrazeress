@@ -37,7 +37,7 @@
      <img align="center" alt="PriPrazeress-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-       <img align="right" alt="PRi-pic" height="100" width="100" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4"/>
+       <img align="right" alt="PRi-pic" height="30" width="30" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4"/>
   </div>
 
   ##
