@@ -37,9 +37,9 @@
      <img align="center" alt="PriPrazeress-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
      <img align="center" alt="PriPrazeress-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-       <img align="right" alt="PRi-pic" height="30" width="30" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4"/>
   </div>
 
+  
   ##
 
   </div>
@@ -47,6 +47,7 @@
   target="_blank"></a>
    <a href="mailto:priscila.carlosdosprazeres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/priscila-carlos-dos-prazeres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <img align="right" alt="PRi-pic" height="100" width="100" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4" />
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriPrazeress/PriPrazeress/output/github-contribution-grid-snake-dark.svg">
