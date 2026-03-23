@@ -45,7 +45,7 @@
   </div>
     <a href="https://instagram.com/priscila.tarya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   target="_blank"></a>
-   <a href="mailto:priscila.carlosdosprazeres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:priscila.carlosprazeres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/priscila-carlos-dos-prazeres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <img align="right" alt="PRi-pic" height="100" width="100" src="https://github.com/PriPrazeress/PriPrazeress/assets/136395423/f4964b31-b3bc-4544-967c-4b5505652df4" />
   
